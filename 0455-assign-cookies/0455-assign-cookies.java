@@ -1,3 +1,4 @@
+// 풀이수준 : B, 그리디
 class Solution {
     public int findContentChildren(int[] g, int[] s) {
         if(s.length == 0) return 0;
