@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/small-dogg/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/small-dogg/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/small-dogg/LeetCode/tree/master/0011-container-with-most-water) |
 | [0209-minimum-size-subarray-sum](https://github.com/small-dogg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/small-dogg/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/small-dogg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -68,9 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/small-dogg/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/small-dogg/LeetCode/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/small-dogg/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/small-dogg/LeetCode/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/small-dogg/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
