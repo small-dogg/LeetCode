@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/small-dogg/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/small-dogg/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/small-dogg/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/small-dogg/LeetCode/tree/master/0016-3sum-closest) |
 | [0209-minimum-size-subarray-sum](https://github.com/small-dogg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/small-dogg/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/small-dogg/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/small-dogg/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/small-dogg/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/small-dogg/LeetCode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/small-dogg/LeetCode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/small-dogg/LeetCode/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
 | [1095-two-city-scheduling](https://github.com/small-dogg/LeetCode/tree/master/1095-two-city-scheduling) |
 <!---LeetCode Topics End-->
