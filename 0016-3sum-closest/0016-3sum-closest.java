@@ -1,3 +1,4 @@
+//도움없이 푼문제
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         //n 길이의 정수 배열 nums와 정수 target이 주어짐
