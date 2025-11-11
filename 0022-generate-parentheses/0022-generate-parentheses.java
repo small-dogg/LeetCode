@@ -12,7 +12,7 @@ class Solution {
 
     private void generate(int n, int open, int close, StringBuilder now, List<String> result) {
         if (now.length() == n * 2) {
-            if (isBracket(now)) result.add(now.toString());
+            result.add(now.toString());
             return;
         }
 
@@ -27,19 +27,5 @@ class Solution {
             generate(n, open, close + 1, now, result);
             now.deleteCharAt(now.length() - 1);
         }
-    }
-
-    private boolean isBracket(StringBuilder now) {
-        Stack<Character> stack = new Stack<>();
-        for (char c : now.toString().toCharArray()) {
-            if (c == '(' || c == '{' || c == '[') stack.push(c);
-            else {
-                if (stack.isEmpty()) return false;
-                if ((c == ')' && stack.pop() != '(') ||
-                        (c == '}' && stack.pop() != '{') ||
-                        (c == ']' && stack.pop() != '[')) return false;
-            }
-        }
-        return stack.isEmpty();
     }
 }
