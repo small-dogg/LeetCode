@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/small-dogg/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/small-dogg/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/small-dogg/LeetCode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/small-dogg/LeetCode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/small-dogg/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/small-dogg/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/small-dogg/LeetCode/tree/master/0062-unique-paths) |
 ## Greedy
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/small-dogg/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
