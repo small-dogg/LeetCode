@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/small-dogg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0890-lemonade-change](https://github.com/small-dogg/LeetCode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/small-dogg/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/small-dogg/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1095-two-city-scheduling](https://github.com/small-dogg/LeetCode/tree/master/1095-two-city-scheduling) |
 ## Hash Table
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/small-dogg/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/small-dogg/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/small-dogg/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/small-dogg/LeetCode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/small-dogg/LeetCode/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/small-dogg/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/small-dogg/LeetCode/tree/master/1095-two-city-scheduling) |
 ## Sorting
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/small-dogg/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/small-dogg/LeetCode/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
+| [0917-boats-to-save-people](https://github.com/small-dogg/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/small-dogg/LeetCode/tree/master/1095-two-city-scheduling) |
 ## Backtracking
 |  |
