@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/small-dogg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/small-dogg/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/small-dogg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/small-dogg/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/small-dogg/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/small-dogg/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/small-dogg/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/small-dogg/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/small-dogg/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/small-dogg/LeetCode/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
 | [0917-boats-to-save-people](https://github.com/small-dogg/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1095-two-city-scheduling](https://github.com/small-dogg/LeetCode/tree/master/1095-two-city-scheduling) |
@@ -172,4 +176,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/small-dogg/LeetCode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
