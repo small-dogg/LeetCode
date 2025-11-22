@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/small-dogg/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/small-dogg/LeetCode/tree/master/0018-4sum) |
 | [0134-gas-station](https://github.com/small-dogg/LeetCode/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/small-dogg/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/small-dogg/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/small-dogg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/small-dogg/LeetCode/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/small-dogg/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
