@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/small-dogg/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/small-dogg/LeetCode/tree/master/0542-01-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/small-dogg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/small-dogg/LeetCode/tree/master/0704-binary-search) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/small-dogg/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/small-dogg/LeetCode/tree/master/0062-unique-paths) |
+| [0542-01-matrix](https://github.com/small-dogg/LeetCode/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/small-dogg/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/small-dogg/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Union Find
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/small-dogg/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
 | [1073-number-of-enclaves](https://github.com/small-dogg/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Combinatorics
