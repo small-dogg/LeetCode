@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/small-dogg/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/small-dogg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/small-dogg/LeetCode/tree/master/0704-binary-search) |
 | [0890-lemonade-change](https://github.com/small-dogg/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/small-dogg/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/small-dogg/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/small-dogg/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/small-dogg/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/small-dogg/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/small-dogg/LeetCode/tree/master/0704-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/small-dogg/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
