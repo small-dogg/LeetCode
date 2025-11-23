@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/small-dogg/LeetCode/tree/master/0018-4sum) |
 | [0054-spiral-matrix](https://github.com/small-dogg/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/small-dogg/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/small-dogg/LeetCode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/small-dogg/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/small-dogg/LeetCode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/small-dogg/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/small-dogg/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/small-dogg/LeetCode/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/small-dogg/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/small-dogg/LeetCode/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/small-dogg/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/small-dogg/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/small-dogg/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/small-dogg/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/small-dogg/LeetCode/tree/master/0542-01-matrix) |
