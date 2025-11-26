@@ -26,6 +26,14 @@ class Solution {
     }
 
     private boolean isPalindrome(String substring) {
-        return new StringBuilder(substring).reverse().toString().equals(substring);
+        int left = 0;
+        int right = substring.length() - 1;
+        while (left <= right) {
+            if (substring.charAt(left) != substring.charAt(right)) return false;
+            left++;
+            right--;
+        }
+
+        return true;
     }
 }
