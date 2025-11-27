@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/small-dogg/LeetCode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/small-dogg/LeetCode/tree/master/0886-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/small-dogg/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/small-dogg/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/small-dogg/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/small-dogg/LeetCode/tree/master/0886-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/small-dogg/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/small-dogg/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/small-dogg/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/small-dogg/LeetCode/tree/master/0886-possible-bipartition) |
 | [1073-number-of-enclaves](https://github.com/small-dogg/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/small-dogg/LeetCode/tree/master/0207-course-schedule) |
+| [0886-possible-bipartition](https://github.com/small-dogg/LeetCode/tree/master/0886-possible-bipartition) |
 ## Topological Sort
 |  |
 | ------- |
