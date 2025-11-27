@@ -16,8 +16,10 @@ class Solution {
         int[] visited = new int[numCourses];
 
         for (int i = 0; i < numCourses; i++) {
-            if (dfs(i, visited, graph)) {
-                return false;
+            if (visited[i] == 0) {
+                if (dfs(i, visited, graph)) {
+                    return false;
+                }
             }
         }
 
