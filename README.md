@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/small-dogg/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/small-dogg/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/small-dogg/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/small-dogg/LeetCode/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/small-dogg/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/small-dogg/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0394-decode-string](https://github.com/small-dogg/LeetCode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/small-dogg/LeetCode/tree/master/0394-decode-string) |
 ## Depth-First Search
 |  |
 | ------- |
