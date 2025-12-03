@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/small-dogg/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/small-dogg/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/small-dogg/LeetCode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/small-dogg/LeetCode/tree/master/0739-daily-temperatures) |
 | [0890-lemonade-change](https://github.com/small-dogg/LeetCode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/small-dogg/LeetCode/tree/master/0917-boats-to-save-people) |
 | [1046-max-consecutive-ones-iii](https://github.com/small-dogg/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/small-dogg/LeetCode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/small-dogg/LeetCode/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/small-dogg/LeetCode/tree/master/0739-daily-temperatures) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/small-dogg/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/small-dogg/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
